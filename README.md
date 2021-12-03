@@ -1,2 +1,2 @@
 # NaveenSaaho.github.io
-Personal website
+Colmaracademy Capstone project
